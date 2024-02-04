@@ -28,6 +28,6 @@ git clone https://github.com/your-username/background-removal.git
 # Navigate to the repository directory
 cd background-removal
 
-# Install the required dependencies
-pip install -r requirements.txt
+# run
+python remove_background.py
 ```
